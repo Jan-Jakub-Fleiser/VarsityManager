@@ -1,0 +1,5 @@
+/home/elliotaldersion/VarsityManager/obj/Debug/net5.0/VarsityManager.csprojAssemblyReference.cache
+/home/elliotaldersion/VarsityManager/obj/Debug/net5.0/VarsityManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/elliotaldersion/VarsityManager/obj/Debug/net5.0/VarsityManager.AssemblyInfoInputs.cache
+/home/elliotaldersion/VarsityManager/obj/Debug/net5.0/VarsityManager.AssemblyInfo.cs
+/home/elliotaldersion/VarsityManager/obj/Debug/net5.0/VarsityManager.csproj.CoreCompileInputs.cache
